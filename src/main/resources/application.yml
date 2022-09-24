@@ -26,3 +26,6 @@ eureka:
   client: ${eureka-client}
   instance:
     prefer-ip-address: true
+
+server:
+  port: 9998
